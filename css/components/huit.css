@@ -1,0 +1,54 @@
+.cards{
+
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	background-color: #ECF9F0;
+	margin-right: 157px;
+	margin-left: 157px;
+	padding:27px;
+}
+
+.hobb{
+	border-top : 1px solid white;
+	border-right : 2px solid white;
+	border-bottom : 1px solid white;
+	border-left : 2px solid white;
+	border-radius: 15px;
+	padding:30px;
+	margin-right: 197px;
+	margin-left: 197px;
+	box-shadow: 0px 10px 30px rgba(233,226,233, 1);
+
+}
+
+.hobbies{
+	font-size: 24px;
+	font-weight: bold;
+	color: black; text-shadow: #8799B4 0.1em 0.1em 0.2em;
+}
+
+.nat{
+	height: 100px;
+	width: 170px ;
+	border-radius: 5px;
+	float:right;
+}
+
+.piano{
+	width: 97px;
+	height: 67px;
+	border-radius: 5px;
+	float: right;
+}
+
+.bal{
+	height: 100px;
+	width: 170px ;
+	border-radius: 5px;
+	float:right;
+}
+
+.jr{
+	height: 100px;
+	width: 100px ;
+	float:center;
+}
